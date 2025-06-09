@@ -1,5 +1,4 @@
 # LungCancerDetection
-# Lung Cancer Detection
 
 This project implements a deep learning-based system for lung cancer detection using medical imaging data. The goal is to accurately classify and detect lung cancer from CT scans or DICOM images.
 
